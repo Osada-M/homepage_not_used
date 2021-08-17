@@ -91,7 +91,7 @@ head = """\
                 ホーム
             </a>
             <a href="%sapps.html" id="home"%s>
-                アプリ
+                倉　庫
             </a>
             <a href="%sRemember/Remember.html" id="home"%s>
                 備忘録
