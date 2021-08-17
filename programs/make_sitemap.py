@@ -9,8 +9,7 @@ import pathlib
 import datetime
 import pprint
 
-# os.chdir("/Users/osadamasashi/Desktop/ossa2019.stars.ne.jp")
-os.chdir("C:\\Users\\81806\\Desktop\\ossa2019.stars.ne.jp")
+os.chdir("/Users/osadamasashi/Desktop/ossa2019.stars.ne.jp")
 SITE_NAME = "http://ossa2019.stars.ne.jp/"
 PROFILE_PATH = "programs/sitemap_profile.txt"
 OUTPUT_PATH = "sitemap.xml"
