@@ -118,6 +118,8 @@ def rep_py(xs):
 
     # dec5
     # なし
+    
+    xs = xs.replace('auth<span class="dec3">or</span>', 'author')
 
     return xs
 

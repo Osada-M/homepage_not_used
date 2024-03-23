@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 function fade(target, start, end){
     $(target).append(

@@ -4,8 +4,8 @@
 
 ## title
 
-## tab_now ( 0:index, 1:apps, 2:remenber, 3:blog )
-3
+## tab_now ( 0:index, 1:note, 2:programs, 3:remember )
+0
 ## og:title ( shortcut name )
 
 ## og:description ( site's introduction )
@@ -13,7 +13,7 @@
 ## og:site_name ( 2nd shortcut name )
 
 ## og:type
-blog
+website
 ## page title
 
 ## caption

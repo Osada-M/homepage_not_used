@@ -20,10 +20,10 @@ function file_append($path, $data){
 }
 
 $a = set_count('countBuffer.txt');
-$f = 'count.txt';
-file_append($f, "\n");
-file_append($f, $a);
-file_append($f, "\t");
-file_append($f, $_SERVER['REMOTE_ADDR']);
+// $f = 'count.txt';
+// file_append($f, "\n");
+// file_append($f, $a);
+// file_append($f, "\t");
+// file_append($f, $_SERVER['REMOTE_ADDR']);
 
 ?>
